@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Schedules | Living Stone Academy</title>
-    <link>http://localhost:1313/schedules/</link>
-      <atom:link href="http://localhost:1313/schedules/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lsa.developerjonas.com/schedules/</link>
+      <atom:link href="https://lsa.developerjonas.com/schedules/index.xml" rel="self" type="application/rss+xml" />
     <description>Schedules</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>https://lsa.developerjonas.com/media/logo.svg</url>
       <title>Schedules</title>
-      <link>http://localhost:1313/schedules/</link>
+      <link>https://lsa.developerjonas.com/schedules/</link>
     </image>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/schedules/exam/</link>
+      <link>https://lsa.developerjonas.com/schedules/exam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/schedules/exam/</guid>
+      <guid>https://lsa.developerjonas.com/schedules/exam/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/schedules/xi_mgmt/</link>
+      <link>https://lsa.developerjonas.com/schedules/xi_mgmt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/schedules/xi_mgmt/</guid>
+      <guid>https://lsa.developerjonas.com/schedules/xi_mgmt/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/schedules/xi_science/</link>
+      <link>https://lsa.developerjonas.com/schedules/xi_science/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/schedules/xi_science/</guid>
+      <guid>https://lsa.developerjonas.com/schedules/xi_science/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/schedules/xii_mgmt/</link>
+      <link>https://lsa.developerjonas.com/schedules/xii_mgmt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/schedules/xii_mgmt/</guid>
+      <guid>https://lsa.developerjonas.com/schedules/xii_mgmt/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/schedules/xii_science/</link>
+      <link>https://lsa.developerjonas.com/schedules/xii_science/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/schedules/xii_science/</guid>
+      <guid>https://lsa.developerjonas.com/schedules/xii_science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lab Routine</title>
-      <link>http://localhost:1313/schedules/lab-routines/</link>
+      <link>https://lsa.developerjonas.com/schedules/lab-routines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/schedules/lab-routines/</guid>
+      <guid>https://lsa.developerjonas.com/schedules/lab-routines/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
