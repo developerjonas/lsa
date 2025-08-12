@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact Us | Living Stone Academy</title>
-    <link>https://lsa.developerjonas.com/contact/</link>
-      <atom:link href="https://lsa.developerjonas.com/contact/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/contact/</link>
+      <atom:link href="http://localhost:1313/contact/index.xml" rel="self" type="application/rss+xml" />
     <description>Contact Us</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language>
     <image>
-      <url>https://lsa.developerjonas.com/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>Contact Us</title>
-      <link>https://lsa.developerjonas.com/contact/</link>
+      <link>http://localhost:1313/contact/</link>
     </image>
     
   </channel>

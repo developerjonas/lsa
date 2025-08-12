@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Facilities | Living Stone Academy</title>
-    <link>https://lsa.developerjonas.com/facilities/</link>
-      <atom:link href="https://lsa.developerjonas.com/facilities/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/facilities/</link>
+      <atom:link href="http://localhost:1313/facilities/index.xml" rel="self" type="application/rss+xml" />
     <description>Facilities</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language>
     <image>
-      <url>https://lsa.developerjonas.com/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>Facilities</title>
-      <link>https://lsa.developerjonas.com/facilities/</link>
+      <link>http://localhost:1313/facilities/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://lsa.developerjonas.com/facilities/bio_lab/</link>
+      <link>http://localhost:1313/facilities/bio_lab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lsa.developerjonas.com/facilities/bio_lab/</guid>
+      <guid>http://localhost:1313/facilities/bio_lab/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://lsa.developerjonas.com/facilities/chemistry_lab/</link>
+      <link>http://localhost:1313/facilities/chemistry_lab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lsa.developerjonas.com/facilities/chemistry_lab/</guid>
+      <guid>http://localhost:1313/facilities/chemistry_lab/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://lsa.developerjonas.com/facilities/cs_lab/</link>
+      <link>http://localhost:1313/facilities/cs_lab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lsa.developerjonas.com/facilities/cs_lab/</guid>
+      <guid>http://localhost:1313/facilities/cs_lab/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://lsa.developerjonas.com/facilities/physics_lab/</link>
+      <link>http://localhost:1313/facilities/physics_lab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lsa.developerjonas.com/facilities/physics_lab/</guid>
+      <guid>http://localhost:1313/facilities/physics_lab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Library</title>
-      <link>https://lsa.developerjonas.com/facilities/library/</link>
+      <link>http://localhost:1313/facilities/library/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lsa.developerjonas.com/facilities/library/</guid>
+      <guid>http://localhost:1313/facilities/library/</guid>
       <description>&lt;p&gt;Our library is stocked with an extensive collection of books and digital resources, supporting both students and teachers for research and learning.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Open from 8 AM to 4 PM&lt;/li&gt;

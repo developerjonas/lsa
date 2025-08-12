@@ -2,117 +2,117 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to Living Stone Academy | Living Stone Academy</title>
-    <link>https://lsa.developerjonas.com/</link>
-      <atom:link href="https://lsa.developerjonas.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Welcome to Living Stone Academy</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Tue, 12 Aug 2025 22:00:00 +0545</lastBuildDate>
     <image>
-      <url>https://lsa.developerjonas.com/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>Welcome to Living Stone Academy</title>
-      <link>https://lsa.developerjonas.com/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://lsa.developerjonas.com/courses/cs/</link>
+      <link>http://localhost:1313/courses/cs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lsa.developerjonas.com/courses/cs/</guid>
+      <guid>http://localhost:1313/courses/cs/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://lsa.developerjonas.com/courses/humanities/</link>
+      <link>http://localhost:1313/courses/humanities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lsa.developerjonas.com/courses/humanities/</guid>
+      <guid>http://localhost:1313/courses/humanities/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://lsa.developerjonas.com/courses/science/</link>
+      <link>http://localhost:1313/courses/science/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lsa.developerjonas.com/courses/science/</guid>
+      <guid>http://localhost:1313/courses/science/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://lsa.developerjonas.com/facilities/bio_lab/</link>
+      <link>http://localhost:1313/facilities/bio_lab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lsa.developerjonas.com/facilities/bio_lab/</guid>
+      <guid>http://localhost:1313/facilities/bio_lab/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://lsa.developerjonas.com/facilities/chemistry_lab/</link>
+      <link>http://localhost:1313/facilities/chemistry_lab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lsa.developerjonas.com/facilities/chemistry_lab/</guid>
+      <guid>http://localhost:1313/facilities/chemistry_lab/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://lsa.developerjonas.com/facilities/cs_lab/</link>
+      <link>http://localhost:1313/facilities/cs_lab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lsa.developerjonas.com/facilities/cs_lab/</guid>
+      <guid>http://localhost:1313/facilities/cs_lab/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://lsa.developerjonas.com/facilities/physics_lab/</link>
+      <link>http://localhost:1313/facilities/physics_lab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lsa.developerjonas.com/facilities/physics_lab/</guid>
+      <guid>http://localhost:1313/facilities/physics_lab/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://lsa.developerjonas.com/schedules/exam/</link>
+      <link>http://localhost:1313/schedules/exam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lsa.developerjonas.com/schedules/exam/</guid>
+      <guid>http://localhost:1313/schedules/exam/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://lsa.developerjonas.com/schedules/xi_mgmt/</link>
+      <link>http://localhost:1313/schedules/xi_mgmt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lsa.developerjonas.com/schedules/xi_mgmt/</guid>
+      <guid>http://localhost:1313/schedules/xi_mgmt/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://lsa.developerjonas.com/schedules/xi_science/</link>
+      <link>http://localhost:1313/schedules/xi_science/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lsa.developerjonas.com/schedules/xi_science/</guid>
+      <guid>http://localhost:1313/schedules/xi_science/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://lsa.developerjonas.com/schedules/xii_mgmt/</link>
+      <link>http://localhost:1313/schedules/xii_mgmt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lsa.developerjonas.com/schedules/xii_mgmt/</guid>
+      <guid>http://localhost:1313/schedules/xii_mgmt/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://lsa.developerjonas.com/schedules/xii_science/</link>
+      <link>http://localhost:1313/schedules/xii_science/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lsa.developerjonas.com/schedules/xii_science/</guid>
+      <guid>http://localhost:1313/schedules/xii_science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grade 11 Notes</title>
-      <link>https://lsa.developerjonas.com/notes/xi/</link>
+      <link>http://localhost:1313/notes/xi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lsa.developerjonas.com/notes/xi/</guid>
+      <guid>http://localhost:1313/notes/xi/</guid>
       <description>&lt;p&gt;Download study materials for Grade 11 students:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://example.com/grade11-math.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mathematics PDF&lt;/a&gt;&lt;/li&gt;
@@ -124,9 +124,9 @@
     
     <item>
       <title>Lab Routine</title>
-      <link>https://lsa.developerjonas.com/schedules/lab-routines/</link>
+      <link>http://localhost:1313/schedules/lab-routines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lsa.developerjonas.com/schedules/lab-routines/</guid>
+      <guid>http://localhost:1313/schedules/lab-routines/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -162,9 +162,9 @@
     
     <item>
       <title>Library</title>
-      <link>https://lsa.developerjonas.com/facilities/library/</link>
+      <link>http://localhost:1313/facilities/library/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lsa.developerjonas.com/facilities/library/</guid>
+      <guid>http://localhost:1313/facilities/library/</guid>
       <description>&lt;p&gt;Our library is stocked with an extensive collection of books and digital resources, supporting both students and teachers for research and learning.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Open from 8 AM to 4 PM&lt;/li&gt;
@@ -176,9 +176,9 @@
     
     <item>
       <title>Plus Two Management</title>
-      <link>https://lsa.developerjonas.com/courses/management/</link>
+      <link>http://localhost:1313/courses/management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lsa.developerjonas.com/courses/management/</guid>
+      <guid>http://localhost:1313/courses/management/</guid>
       <description>&lt;h3 id=&#34;course-overview&#34;&gt;Course Overview&lt;/h3&gt;
 &lt;p&gt;Our Management stream prepares students with foundational knowledge in accounting, business studies, economics, and computer applications.&lt;/p&gt;
 &lt;h3 id=&#34;curriculum-highlights&#34;&gt;Curriculum Highlights&lt;/h3&gt;
@@ -188,7 +188,7 @@
 &lt;li&gt;Economics Fundamentals&lt;/li&gt;
 &lt;li&gt;Practical Computer Skills&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;https://lsa.developerjonas.com/courses/science/&#34;&gt;Explore Science Stream&lt;/a&gt; | &lt;a href=&#34;https://lsa.developerjonas.com/courses/humanities/&#34;&gt;Explore Humanities Stream&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/courses/science/&#34;&gt;Explore Science Stream&lt;/a&gt; | &lt;a href=&#34;http://localhost:1313/courses/humanities/&#34;&gt;Explore Humanities Stream&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
