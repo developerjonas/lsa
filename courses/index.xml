@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses Offered | Living Stone Academy</title>
+    <link>https://lsa.developerjonas.com/courses/</link>
+      <atom:link href="https://lsa.developerjonas.com/courses/index.xml" rel="self" type="application/rss+xml" />
+    <description>Courses Offered</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language>
+    <image>
+      <url>https://lsa.developerjonas.com/media/logo.svg</url>
+      <title>Courses Offered</title>
+      <link>https://lsa.developerjonas.com/courses/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://lsa.developerjonas.com/courses/cs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lsa.developerjonas.com/courses/cs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lsa.developerjonas.com/courses/humanities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lsa.developerjonas.com/courses/humanities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lsa.developerjonas.com/courses/science/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lsa.developerjonas.com/courses/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plus Two Management</title>
+      <link>https://lsa.developerjonas.com/courses/management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lsa.developerjonas.com/courses/management/</guid>
+      <description>&lt;h3 id=&#34;course-overview&#34;&gt;Course Overview&lt;/h3&gt;
+&lt;p&gt;Our Management stream prepares students with foundational knowledge in accounting, business studies, economics, and computer applications.&lt;/p&gt;
+&lt;h3 id=&#34;curriculum-highlights&#34;&gt;Curriculum Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Accounting Principles&lt;/li&gt;
+&lt;li&gt;Business Communication&lt;/li&gt;
+&lt;li&gt;Economics Fundamentals&lt;/li&gt;
+&lt;li&gt;Practical Computer Skills&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://lsa.developerjonas.com/courses/science/&#34;&gt;Explore Science Stream&lt;/a&gt; | &lt;a href=&#34;https://lsa.developerjonas.com/courses/humanities/&#34;&gt;Explore Humanities Stream&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

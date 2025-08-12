@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | Living Stone Academy</title>
+    <link>https://lsa.developerjonas.com/categories/</link>
+      <atom:link href="https://lsa.developerjonas.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language>
+    <image>
+      <url>https://lsa.developerjonas.com/media/logo.svg</url>
+      <title>Categories</title>
+      <link>https://lsa.developerjonas.com/categories/</link>
+    </image>
+    
+  </channel>
+</rss>

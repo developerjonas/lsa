@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schedules | Living Stone Academy</title>
+    <link>https://lsa.developerjonas.com/schedules/</link>
+      <atom:link href="https://lsa.developerjonas.com/schedules/index.xml" rel="self" type="application/rss+xml" />
+    <description>Schedules</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language>
+    <image>
+      <url>https://lsa.developerjonas.com/media/logo.svg</url>
+      <title>Schedules</title>
+      <link>https://lsa.developerjonas.com/schedules/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://lsa.developerjonas.com/schedules/exam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lsa.developerjonas.com/schedules/exam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lsa.developerjonas.com/schedules/xi_mgmt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lsa.developerjonas.com/schedules/xi_mgmt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lsa.developerjonas.com/schedules/xi_science/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lsa.developerjonas.com/schedules/xi_science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lsa.developerjonas.com/schedules/xii_mgmt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lsa.developerjonas.com/schedules/xii_mgmt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lsa.developerjonas.com/schedules/xii_science/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lsa.developerjonas.com/schedules/xii_science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lab Routine</title>
+      <link>https://lsa.developerjonas.com/schedules/lab-routines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lsa.developerjonas.com/schedules/lab-routines/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Day&lt;/th&gt;
+          &lt;th&gt;Subject&lt;/th&gt;
+          &lt;th&gt;Time&lt;/th&gt;
+          &lt;th&gt;Lab&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Monday&lt;/td&gt;
+          &lt;td&gt;Physics&lt;/td&gt;
+          &lt;td&gt;10:00 - 11:30&lt;/td&gt;
+          &lt;td&gt;Physics Lab&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Tuesday&lt;/td&gt;
+          &lt;td&gt;Chemistry&lt;/td&gt;
+          &lt;td&gt;11:45 - 1:15&lt;/td&gt;
+          &lt;td&gt;Chemistry Lab&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Wednesday&lt;/td&gt;
+          &lt;td&gt;Computer Science&lt;/td&gt;
+          &lt;td&gt;2:00 - 3:30&lt;/td&gt;
+          &lt;td&gt;Computer Lab&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
